@@ -1,8 +1,8 @@
 {
-    "name": "Instagram Bot",
-    "description": "Instagram Post Bot",
-    "repository": "https://github.com/aryan1403/InstagramXBot",
-    "success_url": "https://t.me/Hellion_Coder",
+    "name": "Random Dog Image Bot",
+    "description": "Random Image Bot",
+    "repository": "https://github.com/aryan1403/RandomDogImageBot",
+    "success_url": "https://t.me/aryan1403",
     "stack": "container",
     "env": {
         "botToken": {
