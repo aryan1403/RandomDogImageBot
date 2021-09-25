@@ -1,7 +1,7 @@
 {
     "name": "Instagram Bot",
     "description": "Instagram Post Bot",
-    "repository": "https://github.com/Hellboy-Aaryan/InstagramXBot",
+    "repository": "https://github.com/aryan1403/InstagramXBot",
     "success_url": "https://t.me/Hellion_Coder",
     "stack": "container",
     "env": {
